@@ -45587,8 +45587,12 @@
       "logoURI": "https://raw.githubusercontent.com/ENNETOKEN/ENNE/main/ENNE%20TOKEN.png",
       "tags": [
         "social-token"
-      ]
-    }
+      ],
+      "extensions": {
+        "website": "https://enne.network",
+        "website": "https://ennetoken.org"
+      }
+    },
   ],
   "version": {
     "major": 0,
